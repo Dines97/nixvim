@@ -208,6 +208,7 @@
     ./utils/smart-splits.nix
     ./utils/spectre.nix
     ./utils/spider.nix
+    ./utils/sqlite-lua.nix
     ./utils/startify
     ./utils/startup.nix
     ./utils/surround.nix
