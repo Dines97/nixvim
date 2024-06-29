@@ -13,7 +13,7 @@ helpers.neovim-plugin.mkNeovimPlugin config {
   maintainers = [ helpers.maintainers.Dines97 ];
 
   settingsOptions = {
-    keymaps = lib.mkOption { types = lib.types.listOf helpers.keymaps.mapOptionSubmodule; };
+    keymaps = lib.mkOption { type = lib.types.listOf helpers.keymaps.mapOptionSubmodule; };
   };
 
   extraConfig = cfg: { };
