@@ -28,6 +28,12 @@
     name = "Daniel Laing";
     keys = [ { fingerprint = "0821 8B96 DC73 85E5 BB7C  A535 D264 3BD2 13BC 0FA8"; } ];
   };
+  Dines97 = {
+    name = "Denis Kaynar";
+    email = "19364873+Dines97@users.noreply.github.com";
+    github = "Dines97";
+    githubId = 19364873;
+  };
   JanKremer = {
     email = "mail@jankremer.eu";
     matrix = "@jankremer:matrix.org";
