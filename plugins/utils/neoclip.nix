@@ -17,7 +17,7 @@ helpers.neovim-plugin.mkNeovimPlugin config {
       Enable persistent history.
     '';
 
-    continuous_sync = helpers.defaultNullOpts false ''
+    continuous_sync = helpers.defaultNullOpts.mkBool false ''
       Enable continuous sync.
     '';
   };
