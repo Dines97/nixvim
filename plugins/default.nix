@@ -177,6 +177,7 @@
     ./utils/intellitab.nix
     ./utils/lastplace.nix
     ./utils/leap.nix
+    ./utils/legendary.nix
     ./utils/magma-nvim.nix
     ./utils/mark-radar.nix
     ./utils/marks.nix
